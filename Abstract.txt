@@ -1,0 +1,18 @@
+Abstract
+
+In recent years, microprocessors’ execution speed has improved rapidly, but memory access time has improved in much slower rate. Consequently, microprocessor performance has been affected by the much slower memory access. Microprocessors waste multiple clock cycles waiting for data availability from the memory. Cache memories were added to microprocessor architecture to overcome this deficiency. Cache improvement is limited to the hit and miss rate. Prefetching mechanism improves cache usage efficiency. Using an effective prefetching technique may improve cache hit rate significantly. In this project, we focus on some hardware prefetching techniques.
+
+Cache prefetching boosts execution performance by fetching instructions or data from their original storage in slower memory to a faster local memory before it is actually needed (hence the term 'prefetch'). Most modern computer processors have fast and local cache memory in which prefetched data is held until it is required. The source for the prefetch operation is usually main memory. Because of their design, accessing cache memories is typically much faster than accessing main memory, so prefetching data and then accessing it from caches is usually many orders of magnitude faster than accessing it directly from main memory.
+
+
+Team Members:-
+Computer Science and Engineering:-
+1. Ashish Ucheniya
+2. Devjit Menghani
+3. Ishan Pandey
+4. Unmesh Kumar
+
+Electronics and Communication Engineering:-
+1. Nunsavath Prashanth
+2. Nagulapati Sainath
+3. Allu Vamsi Vishal
